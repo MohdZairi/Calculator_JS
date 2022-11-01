@@ -7,46 +7,44 @@
     <title>Calculator JS</title>
     <link rel = "icon" href ="/Calculator/img/calculator.png">
     <link rel="stylesheet" href="/Calculator/css/style.css">
-    <script src="js/calculator.js" type="text/javascript"></script>
 </head>
 <body>
     <div class="calculator">
-    <div id="display"></div>
-    <table>
-        <tbody>
-        <tr>
-            
-            <td colspan="4">
+        <div id="display"></div>
+        <table>
+            <tbody>
+            <tr>
+                <td colspan="4">
                 =
-            </td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>8</td>
-            <td>9</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>5</td>
-            <td>6</td>
-            <td>+</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>*</td>
-        </tr>
-        <tr>
-
-            <td>🆑</td>
-            <td>0</td>
-            <td>⬅️</td>
-            <td>/</td>
-        </tr>
-        </tbody>
-    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+                <td>+</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>*</td>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>🆑</td>
+                <td>⬅️</td>
+                <td>/</td>
+            </tr>
+            </tbody>
+        </table>
     </div>
+    <script  src="./script.js"></script>
 </body>
 </html>
