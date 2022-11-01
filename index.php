@@ -7,6 +7,7 @@
     <title>Calculator JS</title>
     <link rel = "icon" href ="/Calculator/img/calculator.png">
     <link rel="stylesheet" href="/Calculator/css/style.css">
+    <script src="js/calculator.js" type="text/javascript"></script>
 </head>
 <body>
     <div class="calculator">
