@@ -14,8 +14,9 @@
     <table>
         <tbody>
         <tr>
+            
             <td colspan="4">
-            =
+                =
             </td>
         </tr>
         <tr>
@@ -37,8 +38,9 @@
             <td>*</td>
         </tr>
         <tr>
-            <td>0</td>
+
             <td>🆑</td>
+            <td>0</td>
             <td>⬅️</td>
             <td>/</td>
         </tr>
